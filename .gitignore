@@ -1,0 +1,77 @@
+#hardcoded executables
+gridCHP++
+
+#TeX files
+*.log
+*.pdf
+*.synctex.gz
+*.aux
+
+#data files that always change
+*.csv
+
+# temp files
+*_tmp.*
+*.swp
+
+# CHP input files
+*.chp
+*.stim
+
+# Object files
+*.o
+
+# Assembly files
+*.s
+
+# Executables
+*.out
+*.exe
+
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# MacOS garbage
+.DS_Store
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.vtc
+
+## Intermediate documents:
+*.dvi
+*-converted-to.*
+# these rules might exclude image files for figures etc.
+*.ps
+#*.eps
+*.pdf
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.brf
+*.run.xml
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+*.tcp
+*.tps
